@@ -31,7 +31,7 @@
 ![weather3](https://user-images.githubusercontent.com/48273829/59401598-36989d80-8dd6-11e9-8ca8-5c9b80f93433.JPG) <br>
 
 # Ⅴ. 세부 기능
-### 1. 한국, 국, 일본. 세 국가의 언어 및 패션 추천
+### 1. 한국, 영국, 일본. 세 국가의 언어 및 패션 추천
 ![weather4](https://user-images.githubusercontent.com/48273829/59402102-0ce07600-8dd8-11e9-8548-d9d45720380c.JPG)
 ![weather5](https://user-images.githubusercontent.com/48273829/59402103-0e11a300-8dd8-11e9-8618-5a18a24d5c7d.JPG)
 ![weather6](https://user-images.githubusercontent.com/48273829/59402104-0eaa3980-8dd8-11e9-964b-ffa7ec55afb2.JPG)
