@@ -53,4 +53,4 @@
 <br>&#160;&#160;1) Google Speech 음성 검색&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;&#160;2) Image Classification<br><br>
 
 # Ⅶ. 구현 동영상
-*  Link = https://youtu.be/ASveITCytQc
+*  Youtube Link = https://youtu.be/ASveITCytQc
